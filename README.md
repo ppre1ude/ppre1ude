@@ -67,8 +67,10 @@
   <br/>
   <br/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=FFFFFF"/>
+  <strong>🥕 Farm 🥕</strong>
+  <br/>
+  <br/>
+  <a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/ppre1ude" width="600" height="300"/>
+  </a>
 </div>
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{ppre1ude}?pet-id=1" width="1000" height="120"/>
-</a>
