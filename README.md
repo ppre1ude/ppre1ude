@@ -68,3 +68,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=FFFFFF"/>
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
