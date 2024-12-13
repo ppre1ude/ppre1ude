@@ -92,21 +92,21 @@
       <td>공동저자</td>
       <td>0도로부터</td>
       <td>2022년 4월</td>
-      <td>[링크(텀블벅)](https://link.tumblbug.com/S9vZwfpgiPb)</td>
+      <td>https://link.tumblbug.com/S9vZwfpgiPb</td>
     </tr>
     <tr>
       <td>북크크/글꽃</td>
       <td>공동저자</td>
       <td>여긴 너무 태연한 바다</td>
       <td>2023년 3월</td>
-      <td>[링크(yes24)](https://www.yes24.com/Product/Goods/118956074)</td>
+      <td>https://www.yes24.com/Product/Goods/118956074</td>
     </tr>
     <tr>
       <td>북크크/글꽃</td>
       <td>공동저자</td>
       <td>주저하는 와중에도</td>
       <td>2024년 7월</td>
-      <td>[링크(yes24)](https://www.yes24.com/Product/Goods/129972500)</td>
+      <td>https://www.yes24.com/Product/Goods/129972500</td>
     </tr>
   </table>
 </div>
