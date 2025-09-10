@@ -10,10 +10,6 @@
   <p>사람들과 어울리며 분위기를 이끕니다. 열정과 에너지를 바탕으로 목표를 향해 끊임없이 노력합니다.</p>
 
   <div align="center">
-  <strong>🐥 Hits 🐥</strong>
-  <br/>
-  <br/>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjh5110%2Fhit-counter&count_bg=%23BE8AF9&title_bg=%233D67FF&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
   <br/>
   <br/>
   <strong>✨ It's me! ✨</strong>
@@ -39,6 +35,7 @@
   <img src="https://img.shields.io/badge/styled components-DB7093?style=plastic&logo=styled-components&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/npm-CB3837?style=plastic&logo=npm&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=FFFFFF"/>
   <br/>
   <br/>
   <strong>🎀 Team Collaboration Tools 🎀</h2>
@@ -60,13 +57,12 @@
   <br/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=plastic&logo=React&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=plastic&logo=eslint&logoColor=FFFFFF"/>
   <br/>
   <br/>
   <strong>🔖 Gonna Study Soon 🔖</h2>
   <br/>
   <br/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=plastic&logo=jest&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=svelte&logoColor=FFFFFF"/>
   <br/>
   <br/>
   <strong>🥕 Farm 🥕</strong>
@@ -78,6 +74,7 @@
   <br/>
   <br/>
   <strong>📚 취미로 글을 쓰고 있습니다! 📚</strong>
+  <br/>
   <br/>
   <table><thead>
     <tr>
